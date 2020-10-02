@@ -1,11 +1,16 @@
-.node{
-
-justify-content: center !important;
-align-items: center !important;
-
-font-size: 3rem;
-font-weight: bolder;
-width: 40px !important;
-height: 80px !important;
+.node {
+    justify-content: center !important;
+    align-items: center !important;
+    font-size: 3rem;
+    font-weight: bolder;
+    width: 40px !important;
+    height: 80px !important;
 }
 
+.headerTitle{
+    margin-bottom: 15px;
+}
+
+#gameResult{
+    margin: 15px;
+}
