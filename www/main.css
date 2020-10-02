@@ -1,0 +1,11 @@
+.node{
+
+justify-content: center !important;
+align-items: center !important;
+
+font-size: 3rem;
+font-weight: bolder;
+width: 40px !important;
+height: 80px !important;
+}
+
